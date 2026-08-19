@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { Github, Linkedin, Mail, ExternalLink, Terminal, Server, Container, Cloud, Menu } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Terminal, Server, Container, Cloud } from 'lucide-react';
 import './style.css';
 
 const projects = [
